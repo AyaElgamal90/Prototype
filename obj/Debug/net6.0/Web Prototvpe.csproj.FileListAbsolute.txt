@@ -1,0 +1,26 @@
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\appsettings.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.staticwebassets.runtime.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.exe
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.deps.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.runtimeconfig.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.dll
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\bin\Debug\net6.0\Web Prototvpe.pdb
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.csproj.AssemblyReference.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.AssemblyInfoInputs.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.AssemblyInfo.cs
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.csproj.CoreCompileInputs.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.RazorAssemblyInfo.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.RazorAssemblyInfo.cs
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\scopedcss\bundle\Web Prototvpe.styles.css
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\scopedcss\projectbundle\Web Prototvpe.bundle.scp.css
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.dll
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\refint\Web Prototvpe.dll
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.pdb
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\Web Prototvpe.genruntimeconfig.cache
+C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\obj\Debug\net6.0\ref\Web Prototvpe.dll

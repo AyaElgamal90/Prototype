@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_Prototvpe
+build_property.RootNamespace = Web_Prototvpe
+build_property.ProjectDir = C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ayada\source\repos\Web Prototvpe\Web Prototvpe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ayada/source/repos/Web Prototvpe/Web Prototvpe/Areas/Prototype/Views/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvdG90eXBlXFZpZXdzXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-xfw1c2kmm2
